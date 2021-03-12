@@ -1,0 +1,16 @@
+h1 {
+  font-family: "Satisfy", cursive;
+}
+
+.nav {
+  background-color: #323a42;
+
+  font-weight: bold;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  color: white;
+}
