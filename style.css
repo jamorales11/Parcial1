@@ -14,3 +14,65 @@ h1 {
 .nav-link {
   color: white;
 }
+
+#nombreCategoria {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+img {
+  float: right;
+  width: 100%;
+  height:auto;
+}
+
+#precio {
+  font-weight: bold;
+}
+
+.card {
+  margin: 7px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+#nItems {
+  padding-top: 15px;
+  float: left;
+}
+
+button {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.btn {
+  border: solid;
+  border-width: 0.1px;
+  border-color: #323a42;
+}
+
+#botonPrecio {
+  background-color: #323a42;
+}
+
+.btn-rojo {
+  background-color: #f25764;
+  color: #323a42;
+}
+
+.btn-outline-secondary {
+  background-color: #f2e9dd;
+  color: #323a42;
+}
